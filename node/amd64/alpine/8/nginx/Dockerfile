@@ -1,8 +1,8 @@
-FROM wicastr/node:8.10.0
+FROM wicastr/node:8.11.1
 
 LABEL maintainer="WICASTR Docker Maintainers <dockers@wicastr.com>"
 
-ENV NGINX_VERSION 1.12.2
+ENV NGINX_VERSION 1.14.0
 
 RUN GPG_KEYS=B0F4253373F8F6F510D42178520A9993A1C052F8 \
 	&& CONFIG="\

@@ -6,8 +6,8 @@ However they could also be used in other environments.
 [![WICASTR LOGO](https://wicastr.com/images/logo-WiCastr-horizontal.png)](https://wicastr.com)
 &nbsp;  
 ### Supported tags and respective `Dockerfile` links
-  * 1.13.9, 1.13, mainline [(nginx/amd64/alpine/mainline/Dockerfile)](https://github.com/wicastr/docker-images/blob/master/nginx/amd64/alpine/mainline/Dockerfile)
-  * 1.12.2, 1.12, stable [(nginx/amd64/alpine/stable/Dockerfile)](https://github.com/wicastr/docker-images/blob/master/nginx/amd64/alpine/stable/Dockerfile)
+  * 1.14.0, 1.14, 1, stable, latest [(nginx/amd64/alpine/stable/Dockerfile)](https://github.com/wicastr/docker-images/blob/master/nginx/amd64/alpine/stable/Dockerfile)
+  * 1.13.12, 1.13, mainline [(nginx/amd64/alpine/mainline/Dockerfile)](https://github.com/wicastr/docker-images/blob/master/nginx/amd64/alpine/mainline/Dockerfile)
 
 ### Hello World
 [https://github.com/wicastr/hello-docker-static]()

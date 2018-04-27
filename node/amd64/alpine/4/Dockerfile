@@ -1,6 +1,6 @@
 FROM wicastr/alpine:3.7
 
-ENV NODE_VERSION 4.8.7
+ENV NODE_VERSION 4.9.1
 
 RUN addgroup -g 1000 node \
     && adduser -u 1000 -G node -s /bin/sh -D node \

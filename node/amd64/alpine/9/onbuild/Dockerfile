@@ -1,4 +1,4 @@
-FROM wicastr/node:9.8.0
+FROM wicastr/node:9.11.1
 
 RUN mkdir -p /usr/src/app
 WORKDIR /usr/src/app

@@ -6,18 +6,20 @@ However they could also be used in other environments.
 [![WICASTR LOGO](https://wicastr.com/images/logo-WiCastr-horizontal.png)](https://wicastr.com)
 &nbsp;   
 ### Supported tags and respective `Dockerfile` links
-* 9.8.0, 9.8, 9, Current [(node/amd64/alpine/9/Dockerfile)](https://github.com/wicastr/docker-images/blob/master/node/amd64/alpine/9/Dockerfile)
-* 9.8.0-onbuild, 9.8-onbuild, 9-onbuild, current-onbuild [(node/amd64/alpine/9/onbuild/Dockerfile)](https://github.com/wicastr/docker-images/blob/master/node/amd64/alpine/9/onbuild/Dockerfile)
-* 8.10.0, 8.10, 8, latest [(node/amd64/alpine/8/Dockerfile)](https://github.com/wicastr/docker-images/blob/master/node/amd64/alpine/8/Dockerfile)
-* 8.10.0-onbuild, 8.10-onbuild, 8-onbuild, latest-onbuild [(node/amd64/alpine/8/onbuild/Dockerfile)](https://github.com/wicastr/docker-images/blob/master/node/amd64/alpine/8/onbuild/Dockerfile)
+* 10.0.0, 10.0, 10, current [(node/amd64/alpine/10/Dockerfile)](https://github.com/wicastr/docker-images/blob/master/node/amd64/alpine/10/Dockerfile)
+* 10.0.0-onbuild, 10.0-onbuild, 10-onbuild, current-onbuild [(node/amd64/alpine/10/onbuild/Dockerfile)](https://github.com/wicastr/docker-images/blob/master/node/amd64/alpine/10/onbuild/Dockerfile)
+* 9.11.1, 9.11, 9 [(node/amd64/alpine/9/Dockerfile)](https://github.com/wicastr/docker-images/blob/master/node/amd64/alpine/9/Dockerfile)
+* 9.11.1-onbuild, 9.11-onbuild, 9-onbuild [(node/amd64/alpine/9/onbuild/Dockerfile)](https://github.com/wicastr/docker-images/blob/master/node/amd64/alpine/9/onbuild/Dockerfile)
+* 8.11.1, 8.11, 8, LTS, latest [(node/amd64/alpine/8/Dockerfile)](https://github.com/wicastr/docker-images/blob/master/node/amd64/alpine/8/Dockerfile)
+* 8.11.1-onbuild, 8.11-onbuild, 8-onbuild, LTS-onbuild, latest-onbuild [(node/amd64/alpine/8/onbuild/Dockerfile)](https://github.com/wicastr/docker-images/blob/master/node/amd64/alpine/8/onbuild/Dockerfile)
 * 7.10.1, 7.10, 7 [(node/amd64/alpine/7/Dockerfile)](https://github.com/wicastr/docker-images/blob/master/node/amd64/alpine/7/Dockerfile)
 * 7.10.1-onbuild, 7.10-onbuild, 7-onbuild [(node/amd64/alpine/7/onbuild/Dockerfile)](https://github.com/wicastr/docker-images/blob/master/node/amd64/alpine/7/onbuild/Dockerfile)
-* 6.13.1, 6.13, 6 [(node/amd64/alpine/6/Dockerfile)](https://github.com/wicastr/docker-images/blob/master/node/amd64/alpine/6/Dockerfile)
-* 6.13.1-onbuild, 6.13-onbuild, 6-onbuild [(node/amd64/alpine/6/onbuild/Dockerfile)](https://github.com/wicastr/docker-images/blob/master/node/amd64/alpine/6/onbuild/Dockerfile)
+* 6.14.1, 6.14, 6 [(node/amd64/alpine/6/Dockerfile)](https://github.com/wicastr/docker-images/blob/master/node/amd64/alpine/6/Dockerfile)
+* 6.14.1-onbuild, 6.14-onbuild, 6-onbuild [(node/amd64/alpine/6/onbuild/Dockerfile)](https://github.com/wicastr/docker-images/blob/master/node/amd64/alpine/6/onbuild/Dockerfile)
 * 5.12.0, 5.12, 5 [(node/amd64/alpine/5/Dockerfile)](https://github.com/wicastr/docker-images/blob/master/node/amd64/alpine/5/Dockerfile)
 * 5.12.0-onbuild, 5.12-onbuild, 5-onbuild [(node/amd64/alpine/5/onbuild/Dockerfile)](https://github.com/wicastr/docker-images/blob/master/node/amd64/alpine/5/onbuild/Dockerfile)
-* 4.8.7, 4.8, 4 [(node/amd64/alpine/4/Dockerfile)](https://github.com/wicastr/docker-images/blob/master/node/amd64/alpine/4/Dockerfile)
-* 4.8.7-onbuild, 4.8-onbuild, 4-onbuild [(node/amd64/alpine/4/onbuild/Dockerfile)](https://github.com/wicastr/docker-images/blob/master/node/amd64/alpine/4/onbuild/Dockerfile)
+* 4.9.1, 4.9, 4 [(node/amd64/alpine/4/Dockerfile)](https://github.com/wicastr/docker-images/blob/master/node/amd64/alpine/4/Dockerfile)
+* 4.9.1-onbuild, 4.9-onbuild, 4-onbuild [(node/amd64/alpine/4/onbuild/Dockerfile)](https://github.com/wicastr/docker-images/blob/master/node/amd64/alpine/4/onbuild/Dockerfile)
 
 ### Hello World
 [https://github.com/wicastr/hello-docker-node]()
